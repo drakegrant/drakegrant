@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @drakegrant
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning programing
+- 💞️ I’m looking to collaborate on programing projects
   
 
 <!---
