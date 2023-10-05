@@ -12,6 +12,6 @@ You can click the Preview link to take a look at your changes.
 ![x](https://github.com/drakegrant/drakegrant/assets/146843909/5b35295a-331f-4a26-96f2-accb2247ba69)
 
 # Code.org GameLab
-[Robot-Face](https://drakegrant.github.io/Robot-Face/)
+[Robot-Face] (https://drakegrant.github.io/Robot-Face/)
 
 ### https://studio.code.org/projects/gamelab/87RSJHy86V-ewJX6DuiuVB9Q5_cI8uuVXI31n-wb6oU
