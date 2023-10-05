@@ -7,8 +7,10 @@
 <!---
 drakegrant/drakegrant is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+
+![octocat-1696338003416](https://github.com/drakegrant/drakegrant/assets/146843909/4e9da44d-775e-4a9c-935d-0ce3e373afd7)
+
 --->
-[octocat-1696338003416](https://github.com//drakegrant/assets/146843909/ac3b52bb-a36c-4461-a6a5-33c413f31dce)
 # Code.org GameLab
 
 [Robot-Face](https://drakegrant.github.io/Robot-Face/)
