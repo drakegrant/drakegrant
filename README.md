@@ -17,5 +17,9 @@ You can click the Preview link to take a look at your changes.
 [Captioned Scenes](https://studio.code.org/projects/gamelab/PpS_57vzyegXUKlqSPv4fD0coqGoYKvq_dD-kJVkVLE)
 > In this project I created a scene of a fight between Star Wars characters
 
-## https://studio.code.org/projects/gamelab/W-fJV-5_qxOo81NRxY3Lpc3jfOe01Yn8nuUYR2SDK7E
-I created a Happy Birthday card that makes the fire candles that are on the cake shake when you click the left button on the mouse and if you press the space button the baloons rise up.
+[Interactive Card](https://studio.code.org/projects/gamelab/AOuEW30j20frgFVd2zBgWVUcDLeR5T9InQJzI7bPDsk)
+> In this project I created a Happy Birthday card that can be interacted with in order to make the candle flames move and balloons rise up and loop around the screen
+
+[Side Scroller](https://studio.code.org/projects/gamelab/2k9g27nsfadFjb2_P9zIOd6eGYeUVFv76emfC3RmFiw)
+> In this project I created a model of the snake game where you have to collect apples and avoid obstacles like rocks
+
