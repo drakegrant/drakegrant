@@ -23,3 +23,8 @@ You can click the Preview link to take a look at your changes.
 [Side Scroller](https://studio.code.org/projects/gamelab/2k9g27nsfadFjb2_P9zIOd6eGYeUVFv76emfC3RmFiw)
 > In this project I created a model of the snake game where you have to collect apples and avoid obstacles like rocks
 
+[Flyer Game] (https://studio.code.org/projects/gamelab/3hDvV2MoQ4IurgqFMWRmaMuUd6O_R61E7m46N9ZZ1nc)
+> In this game I created a game that has a flyer in it and it tries to collect coins and stay away from obsticles trying to push you out of the screen.
+
+[Designed Game](https://studio.code.org/projects/gamelab/42oZEt8WIaZzK8CcnJfXjWsQEMZC1dprODAK2EFAc3Q)
+> In this game I created a game tat has an opponent and a player that you control to try to hit a ball to the wall behind the opponent and score points.
