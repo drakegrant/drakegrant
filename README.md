@@ -28,3 +28,10 @@ You can click the Preview link to take a look at your changes.
 
 [Designed Game](https://studio.code.org/projects/gamelab/42oZEt8WIaZzK8CcnJfXjWsQEMZC1dprODAK2EFAc3Q)
 > In this game I created a game tat has an opponent and a player that you control to try to hit a ball to the wall behind the opponent and score points.
+
+[creative task 1](https://academy.cs.cmu.edu/sharing/yellowFox5659)
+> i created a image of a designed minecraft pickaxe and there is wording at the top.
+
+
+[creative task 2](https://academy.cs.cmu.edu/sharing/goldSquirrel4335)
+
