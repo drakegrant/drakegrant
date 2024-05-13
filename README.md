@@ -44,3 +44,7 @@ You can click the Preview link to take a look at your changes.
 
 [creative task 2](https://academy.cs.cmu.edu/sharing/goldSquirrel4335)
 > we created a living room that turns on and off the TV
+
+[creative task 5](https://academy.cs.cmu.edu/sharing/aquaKangaroo9575)
+>we created a baloon popper and when you move the baloon to the spikes they explode.
+
