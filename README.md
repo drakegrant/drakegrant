@@ -45,6 +45,12 @@ You can click the Preview link to take a look at your changes.
 [creative task 2](https://academy.cs.cmu.edu/sharing/goldSquirrel4335)
 > we created a living room that turns on and off the TV
 
+[creative task 3](https://academy.cs.cmu.edu/sharing/siennaZebra3015)
+> In this project the sun gets bigger and destroys the sun.
+
+[creative task 3](https://academy.cs.cmu.edu/sharing/brownWolf5675)
+> we made an etch a sketch that an change colors and has an inverted one under it.
+
 [creative task 5](https://academy.cs.cmu.edu/sharing/aquaKangaroo9575)
 >we created a baloon popper and when you move the baloon to the spikes they explode.
 
